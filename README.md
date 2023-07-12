@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ramyapothirajan@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ramya-raja-lakshmi](www.linkedin.com/in/ramya-raja-lakshmi)
+- 📄 Know about my experiences [www.linkedin.com/in/ramya-raja-lakshmi]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
