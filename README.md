@@ -19,10 +19,6 @@
 <a href="https://linkedin.com/in/ramya raja lakshmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramya raja lakshmi" height="30" width="40" /></a>
 </p>
 
-### Github repositories stats
-
-![Ramyapothirajan stats](https://github-readme-stats.vercel.app/api?username=ramyapothirajan&show_icons=true&theme=dracula)
-
 ### Languages and Tools
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
@@ -35,5 +31,8 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+
+### Github repositories stats
+![Ramyapothirajan stats](https://github-readme-stats.vercel.app/api?username=ramyapothirajan&show_icons=true&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyapothirajan&" alt="ramyapothirajan" /></p>
