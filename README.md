@@ -27,7 +27,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-logo.svg"></code>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyapothirajan&" alt="ramyapothirajan" /></p>
