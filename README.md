@@ -31,7 +31,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-logo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/seaborn.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyapothirajan&" alt="ramyapothirajan" /></p>
