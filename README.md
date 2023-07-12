@@ -1,4 +1,4 @@
---><h1 align="center">Hello 👋, I'm Ramya Raja Lakshmi</h1>
+<h1 align="center">Hello 👋, I'm Ramya Raja Lakshmi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyapothirajan&label=Profile%20views&color=0e75b6&style=flat" alt="ramyapothirajan" /> </p>
