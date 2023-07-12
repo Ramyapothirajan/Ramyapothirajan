@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramyapothirajan?tab=repositories](https://github.com/Ramyapothirajan?tab=repositories)
   
-- 💬Ask me about optimizing machine learning models for better performance and efficiency.
+- 💬 Ask me about optimizing machine learning models for better performance and efficiency.
 
 - 📫 How to reach me **ramyapothirajan@gmail.com**
 
