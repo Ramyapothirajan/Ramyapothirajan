@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramyapothirajan?tab=repositories](https://github.com/Ramyapothirajan?tab=repositories)
+  
+- 💬Ask me about optimizing machine learning models for better performance and efficiency.
 
 - 📫 How to reach me **ramyapothirajan@gmail.com**
 
@@ -21,7 +23,7 @@
 
 ![Ramyapothirajan stats](https://github-readme-stats.vercel.app/api?username=ramyapothirajan&show_icons=true&theme=dracula)
 
-### Technical stack (non-exhaustive, non-ordered)
+### Languages and Tools
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
